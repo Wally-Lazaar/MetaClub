@@ -1,0 +1,11 @@
+.jumbotron 
+{
+  height: 500px;
+  background-image: url("club1.webp");
+  background-position: center;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items : center;
+  text-align: center;
+}
