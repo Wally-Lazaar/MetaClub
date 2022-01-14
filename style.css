@@ -1,11 +1,31 @@
-.jumbotron 
+body
+{
+background-color: black;
+}
+
+
+.jumbotron
 {
   height: 500px;
-  background-image: url("club1.webp");
+  background-image: url("club1.jpg");
   background-position: center;
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
   align-items : center;
   text-align: center;
+
+}
+
+
+.card
+{
+color: white;
+align-items: baseline;
+background-color: black;
+}
+.card-group
+{
+  margin-top: -30px;
+  background-color: black;
 }
